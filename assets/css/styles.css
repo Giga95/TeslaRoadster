@@ -75,6 +75,10 @@ body {
   color:#ffffff;
 }
 
+.arrow-button:hover {
+  color:#ffffff;
+}
+
 .icon.ion-ios-arrow-down {
   font-size:30px;
 }
